@@ -36,7 +36,7 @@ pip install plotly
 
 Along with python analysis, I've built the dashboard using Power BI. Below is how the dashboards looks like:
 
-![Power BI Dashboard](https://github.com/harshils06/T20-World-Cup-2022-Analysis/blob/main/T20%20World%20Cup%202022%20Analysis.pdf)
+![Power BI Dashboard](https://github.com/harshils06/T20-World-Cup-2022-Analysis/blob/main/T20%20World%20Cup%202022%20Analysis.jpg)
 
 ### Key Takeaways
 
