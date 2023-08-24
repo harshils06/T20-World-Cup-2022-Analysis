@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to this repository where I will do the data analysis of T20 World Cup 2022 stats using Python. 
+this Reposi
 
 ### Dataset Used
 
@@ -32,22 +32,23 @@ pip install pandas
 pip install plotly
 ```
 
-### Tableau Dashboard
+### Power BI Dashboard
 
 Along with python analysis, I've built the [**dashboard**](https://public.tableau.com/app/profile/ameet.singh.manyal/viz/T20_World_Cup_2022_Analysis/Dashboard1) using Tableau Public in my profile. Below is how the dashboards looks like:
 
 ![Tableau Dashboard](https://github.com/ameetsinghmanyal/t20-world-cup-2022-analysis/blob/main/dashboard-1.jpeg)
 
-### Summary
+### Key Takeaways
 
-So some highlights of the t20 world cup 2022 we found from our analysis are:
-
-1. ***England*** won the most number of matches
-2. ***Virat Kohli*** scored highest in the most number of matches
-3. ***Sam Curran*** was the best bowler in the most number of matches
-4. More teams won by ***batting first***
-5. More teams decided to bat first
-6. ***SCG*** was the best stadium to bat first
-7. ***SCG*** was the best stadium to defend the target in the World Cup
-8. The ***Optus Stadium*** was the best stadium to bowl first
+1. **ENGLAND** won the most number of matches(five), with **INDIA** and **PAKISTAN** on the second place winning 4 matches each.
+2. Out of **30** macthes played, **17** times teams elected to **bat first.**
+3. **Virat Kohli** scored the **maximum runs** most number of times.
+4. **Sam Curran** was the **best bowler** in the most number of matches.
+5. More number of teams won by batting first.
+6. **Virat Kohli, Sam Curran, Taskin Ahmed, Suryakumar Yadav and Shadab Khan** were key players for their respective team winning player of the match award twice.
+7. **Rilee Rossouw**scored the maximum runs in a single match.
+8. Out of total 13 times where teams elected to field first, only 5 times they were able to chase the total.
+9. Out of 16 times when teams elected to bat first after winning the toss, only 8 times they were able to defend the total score.
+10. **SCG** was the stadium which was optimal to bat first.
+11. **The Optus Stadium** was the best in order to bowl first.
  
