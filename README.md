@@ -1,8 +1,8 @@
 # T20 World Cup 2022 Analysis Project
-
+Welcome to the **T20 World Cup 2022 Data Analysis** repository! This project is a comprehensive exploration of the data from the 2022 T20 World Cup, focusing on deriving valuable insights using a combination of Python Jupyter Notebook and Power BI.
 ### Overview
 
-this Reposi
+In this repository, you'll find the results of the analysis conducted on the T20 World Cup data from 2022.The analysis encompasses various aspects of the tournament, including team performance, player statistics, match dynamics, and more. 
 
 ### Dataset Used
 
@@ -34,9 +34,9 @@ pip install plotly
 
 ### Power BI Dashboard
 
-Along with python analysis, I've built the [**dashboard**](https://public.tableau.com/app/profile/ameet.singh.manyal/viz/T20_World_Cup_2022_Analysis/Dashboard1) using Tableau Public in my profile. Below is how the dashboards looks like:
+Along with python analysis, I've built the dashboard using Power BI. Below is how the dashboards looks like:
 
-![Tableau Dashboard](https://github.com/ameetsinghmanyal/t20-world-cup-2022-analysis/blob/main/dashboard-1.jpeg)
+![Power BI Dashboard](https://github.com/ameetsinghmanyal/t20-world-cup-2022-analysis/blob/main/dashboard-1.jpeg)
 
 ### Key Takeaways
 
